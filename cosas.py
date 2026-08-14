@@ -1,0 +1,1 @@
+print("Wena po, empecemos con git")
