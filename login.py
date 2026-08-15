@@ -19,3 +19,6 @@ print("No es ideal guardar commits de cosas en desarrollo pero")
 print("Acabo de volver de main con el stash que guarde, y recupere con")
 print("git stash pop, sabiendo que este stash estaba en git stash list")
 print("Con estos 3 print termino mi trabajo y commiteo ahora si el login")
+
+
+#papure papapure arigeimplays o staryuki la mejor
