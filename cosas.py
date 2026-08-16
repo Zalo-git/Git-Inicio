@@ -1,4 +1,4 @@
-print("Me cambiaron, esto va pal tercer git, no se si me van a aceptar el cambio, pero bueno, vamos a ver que pasa")
+print("Bienvenido a github, obligao a cambiar esta primera linea, 3 horas de video")
 print("What? pegue una mierda")
 
 print("Hola Gonza, este es el momento en donde creamos un commit en main")
